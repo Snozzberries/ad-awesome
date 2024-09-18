@@ -77,6 +77,7 @@
 - [ADRecon](https://github.com/adrecon/ADRecon)
 - [ADSec PowerShell](https://github.com/PSSecTools/ADSec)
 - [Ask DS Archive](https://learn.microsoft.com/en-us/archive/blogs/askds/)
+- [Authentication Policies](https://learn.microsoft.com/en-us/windows-server/security/credentials-protection-and-management/authentication-policies-and-authentication-policy-silos)
 - [Azure Secure Isolation](https://learn.microsoft.com/en-us/azure/azure-government/azure-secure-isolation-guidance)
 - [Azure Sentinel Insecure Protocols Workbook Implementation Guide](https://techcommunity.microsoft.com/t5/microsoft-sentinel-blog/azure-sentinel-insecure-protocols-workbook-implementation-guide/ba-p/1197564)
 - [Best Practice Active Directory Design for Managing Windows Networks](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-2000-server/bb727085)
@@ -189,6 +190,5 @@
 
 > Windows Server
 
-- [Authentication Policies](https://learn.microsoft.com/en-us/windows-server/security/credentials-protection-and-management/authentication-policies-and-authentication-policy-silos)
 - [Secured-core Server](https://learn.microsoft.com/en-us/windows-server/security/secured-core-server)
 - [Shielded VMs](https://learn.microsoft.com/en-us/windows-server/security/guarded-fabric-shielded-vm/guarded-fabric-and-shielded-vms-top-node)
