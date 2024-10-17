@@ -138,6 +138,7 @@
 
 ## Fundamentals
 
+- [ASD System hardening and administration](https://www.cyber.gov.au/resources-business-and-government/maintaining-devices-and-systems/system-hardening-and-administration)
 - [Azure Security Fundamentals](https://learn.microsoft.com/en-us/azure/security/fundamentals/)
 - [Emergency Access](https://learn.microsoft.com/en-us/entra/identity/role-based-access-control/security-emergency-access)
 - [Google On Fire Drills and Phishing Tests](https://security.googleblog.com/2024/05/on-fire-drills-and-phishing-tests.html)
