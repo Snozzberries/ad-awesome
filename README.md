@@ -58,6 +58,7 @@
 - [NDES](https://learn.microsoft.com/en-us/archive/technet-wiki/9063.active-directory-certificate-services-ad-cs-network-device-enrollment-service-ndes)
 - [PSPKIAudit](https://github.com/GhostPack/PSPKIAudit)
 - [Site Awareness](https://learn.microsoft.com/en-us/archive/technet-wiki/14106.ad-ds-site-awareness-for-ad-cs-and-pki-clients)
+- [TameMyCerts](https://github.com/Sleepw4lker/TameMyCerts)
 
 ## ADDS
 
