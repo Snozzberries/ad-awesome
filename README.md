@@ -71,6 +71,7 @@
 - [AD Attack & Defense](https://github.com/infosecn1nja/AD-Attack-Defense)
 - [AD Checklist](https://github.com/mczerniawski/Active-Directory-CheckList/tree/master)
 - [AD Discovery Checklist](https://learn.microsoft.com/en-us/archive/technet-wiki/38512.active-directory-domain-discovery-checklist)
+- [AD Hardening Series](https://techcommunity.microsoft.com/tag/adhardening)
 - [AD Technical Reference Collection](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2003/cc780036(v=ws.10))
 - [AD Ultimate Reading Collection](https://learn.microsoft.com/en-us/archive/technet-wiki/20964.active-directory-ultimate-reading-collection)
 - [ADACLScanner](https://github.com/canix1/ADACLScanner)
